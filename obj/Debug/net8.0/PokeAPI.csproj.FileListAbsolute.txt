@@ -1,0 +1,17 @@
+E:\Repos\PokeAPI\bin\Debug\net8.0\PokeAPI.exe
+E:\Repos\PokeAPI\bin\Debug\net8.0\PokeAPI.deps.json
+E:\Repos\PokeAPI\bin\Debug\net8.0\PokeAPI.runtimeconfig.json
+E:\Repos\PokeAPI\bin\Debug\net8.0\PokeAPI.dll
+E:\Repos\PokeAPI\bin\Debug\net8.0\PokeAPI.pdb
+E:\Repos\PokeAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.AssemblyReference.cache
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfoInputs.cache
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfo.cs
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.CoreCompileInputs.cache
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.Up2Date
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.dll
+E:\Repos\PokeAPI\obj\Debug\net8.0\refint\PokeAPI.dll
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.pdb
+E:\Repos\PokeAPI\obj\Debug\net8.0\PokeAPI.genruntimeconfig.cache
+E:\Repos\PokeAPI\obj\Debug\net8.0\ref\PokeAPI.dll
