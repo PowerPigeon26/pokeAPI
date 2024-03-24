@@ -1,1 +1,3 @@
 Hi! This is an application I made while practicing working with APIs in C#. This program utilizes the PokeAPI. When the code is run, the user will be asked to type the name of a pokemon in the console. Incorrect names will cause it to loop and ask for another name. When a correct name is given, the PokeAPI is used to find that pokemon's height, weight, type, and description across all the games, and that info is parsed and printed into the console. Afterwards, it loops back to the start to ask for another pokemon name.
+
+Video Explanation: https://drive.google.com/file/d/1x41ZYlDsbM52yMhqGuXJ-IycXglTjyD8/view?usp=drive_link
